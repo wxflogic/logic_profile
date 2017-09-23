@@ -1,3 +1,6 @@
-# My Awesome Book
+# 本书简介
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+这是一本对《集异璧之大成》的作者侯世达产生重要影响的书。
+
+
+
